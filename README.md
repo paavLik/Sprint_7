@@ -27,5 +27,4 @@
 1. Вызвать консоль Run Anything, дважды нажав Ctrl.
 2. Ввести команду mvn clean test и нажать ввод
 Или
-3. Запустить AllTest.java 
-4. Создать отчет с помощью команды allure service target/surefire-reports/.
+3. Запустить AllTests.java 
